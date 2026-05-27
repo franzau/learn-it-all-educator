@@ -24,6 +24,7 @@ Dr. Szymon Machajewski
 :::
 
 ::: {.content-hidden when-format="pdf"}
+
 ::: {.callout-note}
 Machajewski, Szymon. (2026). *The Learn-It-All Educator — A Guidebook for Training Brains, Not Replacing Them with AI*. Zenodo. [https://doi.org/10.5281/zenodo.19041123](https://doi.org/10.5281/zenodo.19041123)
 

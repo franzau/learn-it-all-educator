@@ -4,8 +4,8 @@ project:
 book:
   title: "The Learn-It-All Educator"
   subtitle: "A Guidebook for Training Brains, Not Replacing Them with AI"
-  author: "Szymon Machajewski"
-  date: "2026"
+  author: "Dr. Szymon Machajewski"
+  date: "Mar 15, 2026"
   description: "Rethinking AI in Higher Education"
   chapters:
     - index.qmd
