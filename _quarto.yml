@@ -26,7 +26,6 @@ format:
     from: markdown+autolink_bare_uris
 pdf:
     toc: true
-    chapter-number-depth: 0
     number-sections: false
     colorlinks: true
     papersize: b5
@@ -38,14 +37,11 @@ pdf:
     mainfont: "Georgia"
     sansfont: "Helvetica Neue"
     monofont: "JetBrains Mono"
-    suppress-bibliography: false
-    title-page: false
-    include-before-body:
-      text: ""
+    include-before-body: cover.tex
     include-in-header:
       text: |
         \usepackage{ragged2e}
         \setlength{\parindent}{0pt}
         \setlength{\parskip}{5pt}
         \raggedright
-        \renewcommand{\maketitle}{}
+        \AtBeginDocument{\let\maketitle\relax}

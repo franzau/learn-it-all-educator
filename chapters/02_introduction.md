@@ -1,5 +1,4 @@
 ```{=latex}
-\mainmatter
 ```
 ---
 number-sections: false
@@ -9,7 +8,6 @@ lang: en
 ---
 
 ```{=latex}
-\mainmatter
 ```
 
 ### The Trap
