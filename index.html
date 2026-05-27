@@ -199,7 +199,7 @@ Note
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Machajewski, Szymon. (2026). <em>The Learn-It-All Educator — A Guidebook for Training Brains, Not Replacing Them with AI</em>. Zenodo. https://doi.org/10.5281/ZENODO.18425283</p>
+<p>Machajewski, Szymon. (2026). <em>The Learn-It-All Educator — A Guidebook for Training Brains, Not Replacing Them with AI</em>. Zenodo. <a href="https://doi.org/10.5281/ZENODO.18425283">https://doi.org/10.5281/ZENODO.18425283</a></p>
 <p>Copyright © 2026 Szymon Machajewski · CC BY 4.0</p>
 <p>Worksheets, updates, and additional resources are available at the companion website: <a href="https://dataii.com/ai/guidebook/">dataii.com/ai/guidebook</a></p>
 <p>This copy is hosted in preparation for an elective course on <em>Generative AI som finurlig kognitiv partner</em> at the Danish School of Education (DPU), Aarhus University, Denmark.</p>
@@ -296,6 +296,8 @@ Note
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // default icon
+            link.classList.add("external");
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
