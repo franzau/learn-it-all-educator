@@ -23,3 +23,22 @@ format:
     link-external-icon: true
     link-external-newpage: true
     from: markdown+autolink_bare_uris
+  pdf:
+    toc: true
+    number-sections: false
+    colorlinks: true
+    papersize: a4
+    documentclass: scrbook
+    classoption:
+      - DIV=12
+      - BCOR=10mm
+    mainfont: "Georgia"
+    sansfont: "Helvetica Neue"
+    monofont: "JetBrains Mono"
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{ragged2e}
+        \setlength{\parindent}{0pt}
+        \setlength{\parskip}{6pt}
+        \raggedright
