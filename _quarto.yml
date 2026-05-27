@@ -20,3 +20,6 @@ format:
     theme: cosmo
     toc: true
     number-sections: false
+    link-external-icon: true
+    link-external-newpage: true
+    from: markdown+autolink_bare_uris

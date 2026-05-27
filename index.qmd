@@ -3,7 +3,7 @@ title: "The Learn-It-All Educator"
 ---
 
 ::: {.callout-note}
-Machajewski, Szymon. (2026). *The Learn-It-All Educator — A Guidebook for Training Brains, Not Replacing Them with AI*. Zenodo. https://doi.org/10.5281/ZENODO.18425283
+Machajewski, Szymon. (2026). *The Learn-It-All Educator — A Guidebook for Training Brains, Not Replacing Them with AI*. Zenodo. [https://doi.org/10.5281/ZENODO.18425283](https://doi.org/10.5281/ZENODO.18425283)
 
 Copyright © 2026 Szymon Machajewski · CC BY 4.0
 
