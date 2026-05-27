@@ -1,0 +1,35 @@
+{
+  "index.qmd": {
+    "index.html": "1860f191"
+  },
+  "chapters/02_introduction.md": {
+    "02_introduction.html": "d5c77e28"
+  },
+  "chapters/03_chapter1.md": {
+    "03_chapter1.html": "a52c5e60"
+  },
+  "chapters/04_chapter2.md": {
+    "04_chapter2.html": "89e6453f"
+  },
+  "chapters/07_backmatter.md": {
+    "07_backmatter.html": "46c11f8a"
+  },
+  "chapters/05_chapter3.md": {
+    "05_chapter3.html": "8daa3a65"
+  },
+  "chapters/06_chapter4.md": {
+    "06_chapter4.html": "8c838b0b"
+  },
+  "chapters/chapter1_worksheet.md": {
+    "chapter1_worksheet.html": "8083bd6c"
+  },
+  "chapters/chapter2_worksheet.md": {
+    "chapter2_worksheet.html": "7c1e1a5c"
+  },
+  "chapters/chapter3_worksheet.md": {
+    "chapter3_worksheet.html": "8eb1ae94"
+  },
+  "chapters/chapter4_worksheet.md": {
+    "chapter4_worksheet.html": "1d13b41d"
+  }
+}
