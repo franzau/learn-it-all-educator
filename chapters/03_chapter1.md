@@ -3,7 +3,7 @@ title: "Chapter 1: Cognitive Triage"
 subtitle: "Managing Educator Workload in the Age of AI"
 ---
 ::: {.callout-note appearance="minimal"}
-Machajewski, Szymon. (2026). *The Learn-It-All Educator — A Guidebook for Training Brains, Not Replacing Them with AI*. Zenodo. https://doi.org/10.5281/ZENODO.18425283 · CC BY 4.0
+Machajewski, Szymon. (2026). *The Learn-It-All Educator — A Guidebook for Training Brains, Not Replacing Them with AI*. Zenodo. [https://doi.org/10.5281/zenodo.19041123](https://doi.org/10.5281/zenodo.19041123) · CC BY 4.0
 :::
 
 \[p. 9\]

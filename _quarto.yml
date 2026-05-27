@@ -5,7 +5,7 @@ book:
   title: "The Learn-It-All Educator"
   subtitle: "A Guidebook for Training Brains, Not Replacing Them with AI"
   author: "Szymon Machajewski"
-  date: "2026"
+  date: "2026-03-15"
   chapters:
     - index.qmd
     - chapters/02_introduction.md
