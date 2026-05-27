@@ -1,10 +1,5 @@
----
-title: "The Learn-It-All Educator"
----
-
-::: {.content-visible when-format="pdf"}
 ```{=latex}
-\frontmatter
+\pagenumbering{gobble}
 \begin{titlepage}
 \centering
 \vspace*{2cm}
@@ -50,18 +45,5 @@ Companion site: \href{https://dataii.com/ai/guidebook}{dataii.com/ai/guidebook}
 
 \vspace*{\fill}
 \newpage
+\pagenumbering{arabic}
 ```
-:::
-
-::: {.content-hidden when-format="pdf"}
-::: {.callout-note}
-Machajewski, Szymon. (2026). *The Learn-It-All Educator — A Guidebook for Training Brains, Not Replacing Them with AI*. Zenodo. [https://doi.org/10.5281/zenodo.19041123](https://doi.org/10.5281/zenodo.19041123)
-
-Copyright © 2026 Szymon Machajewski · CC BY 4.0
-
-Worksheets, updates, and additional resources are available at the companion website:
-[dataii.com/ai/guidebook](https://dataii.com/ai/guidebook/)
-
-This copy is hosted in preparation for an elective course on *Generative AI som finurlig kognitiv partner* at the Danish School of Education (DPU), Aarhus University, Denmark.
-:::
-:::
