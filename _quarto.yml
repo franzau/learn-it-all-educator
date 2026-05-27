@@ -6,7 +6,6 @@ book:
   subtitle: "A Guidebook for Training Brains, Not Replacing Them with AI"
   author: "Dr. Szymon Machajewski"
   date: "Mar 15, 2026"
-  description: "Rethinking AI in Higher Education"
   chapters:
     - index.qmd
     - chapters/02_introduction.md
@@ -21,27 +20,4 @@ format:
     theme: cosmo
     toc: true
     number-sections: false
-    link-external-icon: true
-    link-external-newpage: true
     from: markdown+autolink_bare_uris
-pdf:
-    toc: true
-    number-sections: false
-    colorlinks: true
-    papersize: b5
-    documentclass: scrbook
-    classoption:
-      - DIV=14
-      - BCOR=12mm
-      - fontsize=10pt
-    mainfont: "Georgia"
-    sansfont: "Helvetica Neue"
-    monofont: "JetBrains Mono"
-    include-before-body: cover.tex
-    include-in-header:
-      text: |
-        \usepackage{ragged2e}
-        \setlength{\parindent}{0pt}
-        \setlength{\parskip}{5pt}
-        \raggedright
-        \AtBeginDocument{\let\maketitle\relax}

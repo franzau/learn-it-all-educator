@@ -1,5 +1,3 @@
-```{=latex}
-```
 ---
 number-sections: false
 title: "Introduction: As a Human Thinketh, Our Learning Mindset"
@@ -7,8 +5,6 @@ subtitle: "Training Brains, Not Replacing Them"
 lang: en
 ---
 
-```{=latex}
-```
 
 ### The Trap
 
