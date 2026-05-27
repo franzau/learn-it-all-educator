@@ -24,7 +24,7 @@ format:
     link-external-icon: true
     link-external-newpage: true
     from: markdown+autolink_bare_uris
-  pdf:
+pdf:
     toc: true
     number-sections: false
     colorlinks: true
@@ -37,17 +37,14 @@ format:
     mainfont: "Georgia"
     sansfont: "Helvetica Neue"
     monofont: "JetBrains Mono"
-include-in-header:
+    suppress-bibliography: false
+    title-page: false
+    include-before-body:
+      text: ""
+    include-in-header:
       text: |
         \usepackage{ragged2e}
         \setlength{\parindent}{0pt}
         \setlength{\parskip}{5pt}
         \raggedright
-        \usepackage{graphicx}
-        \usepackage{titling}
-        \pretitle{
-          \begin{center}
-          \includegraphics[width=0.6\textwidth]{cover.png}\\[1em]
-          \LARGE\bfseries
-        }
-        \posttitle{\end{center}}
+        \renewcommand{\maketitle}{}
