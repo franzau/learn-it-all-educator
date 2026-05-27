@@ -1,8 +1,16 @@
+```{=latex}
+\mainmatter
+```
 ---
 number-sections: false
-title: "Introduction: "
-subtitle: "As a Human Thinketh, Our Learning Mindset"
+title: "Introduction: As a Human Thinketh, Our Learning Mindset"
+subtitle: "Training Brains, Not Replacing Them"
+lang: en
 ---
+
+```{=latex}
+\mainmatter
+```
 
 ### The Trap
 

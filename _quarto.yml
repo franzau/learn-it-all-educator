@@ -26,6 +26,7 @@ format:
     from: markdown+autolink_bare_uris
 pdf:
     toc: true
+    chapter-number-depth: 0
     number-sections: false
     colorlinks: true
     papersize: b5
