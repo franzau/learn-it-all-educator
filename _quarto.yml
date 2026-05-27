@@ -5,7 +5,8 @@ book:
   title: "The Learn-It-All Educator"
   subtitle: "A Guidebook for Training Brains, Not Replacing Them with AI"
   author: "Szymon Machajewski"
-  date: "2026-03-15"
+  date: "2026"
+  description: "Rethinking AI in Higher Education"
   chapters:
     - index.qmd
     - chapters/02_introduction.md
@@ -36,9 +37,17 @@ format:
     mainfont: "Georgia"
     sansfont: "Helvetica Neue"
     monofont: "JetBrains Mono"
-    include-in-header:
+include-in-header:
       text: |
         \usepackage{ragged2e}
         \setlength{\parindent}{0pt}
         \setlength{\parskip}{5pt}
         \raggedright
+        \usepackage{graphicx}
+        \usepackage{titling}
+        \pretitle{
+          \begin{center}
+          \includegraphics[width=0.6\textwidth]{cover.png}\\[1em]
+          \LARGE\bfseries
+        }
+        \posttitle{\end{center}}
